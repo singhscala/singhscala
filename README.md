@@ -9,14 +9,10 @@ Welcome to my GitHub! I’m passionate about building efficient, clean, and scal
 ## 🚀 Skills & Technologies
 
 - **Languages:**  
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-  ![SQL](https://img.shields.io/badge/SQL-%2300C7B7?style=for-the-badge&logo=mysql&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-%2300C7B7?style=for-the-badge&logo=mysql&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 - **Core Concepts:**  
-  ![OOP](https://img.shields.io/badge/OOP-%23007396?style=for-the-badge&logo=apache&logoColor=white)  
+  ![OOP](https://img.shields.io/badge/OOP-%23007396?style=for-the-badge&logo=apache&logoColor=white) 
   ![Data Structures](https://img.shields.io/badge/Data%20Structures-%23007ACC?style=for-the-badge&logo=codeforces&logoColor=white)  
   ![DBMS](https://img.shields.io/badge/DBMS-%234B8BBE?style=for-the-badge&logo=sqlite&logoColor=white)  
   ![File Handling](https://img.shields.io/badge/File%20Handling-%232C8EBB?style=for-the-badge&logo=files&logoColor=white)  
