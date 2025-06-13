@@ -43,46 +43,12 @@ Welcome to my GitHub! I’m passionate about building efficient, clean, and scal
 |--------|-------------|------|
 | **Student Record Management** | Java CLI app for CRUD operations with file storage | Java, File I/O |
 | **Library Book Inventory** | Book management system using OOP & collections | Java, `ArrayList` |
-| **Solar Hotspot Detection** | ML + GIS-based solar energy mapping (Research) | Python, Satellite Data |
 
 ---
 
 ## 📈 GitHub Stats
 
-![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=calm)
-
----
-
-## 📫 Let's Connect!
-
-- [LinkedIn](# 👋 Hi, I'm Prachi Singh
-
-**Aspiring Software Developer** | **Java Enthusiast** | **SQL & JavaScript Learner**
-
-Welcome to my GitHub! I’m passionate about building efficient, clean, and scalable software solutions using Core Java and related technologies. Currently sharpening my skills in full-stack development and working on projects that solve real-world problems.
-
----
-
-## 🚀 Skills & Technologies
-
-- **Languages:** Java, SQL, JavaScript, HTML, CSS
-- **Core Concepts:** OOP, Data Structures, DBMS, File Handling, Collections Framework
-- **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ, Eclipse
-- **Currently Exploring:** Web Development, Node.js, APIs
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Student Record Management** | Java CLI app for CRUD operations with file storage | Java, File I/O |
-| **Library Book Inventory** | Book management system using OOP & collections | Java, `ArrayList` |
----
-
-## 📈 GitHub Stats
-
-![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=calm)
+![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhscala&show_icons=true&theme=calm)
 
 ---
 
@@ -97,6 +63,3 @@ _“Code is like humor. When you have to explain it, it’s bad.” – Cory Hou
 )
 - [Email](mailto:singhprachi1612@gmail.com)
 
----
-
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
